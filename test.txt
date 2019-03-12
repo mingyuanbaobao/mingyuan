@@ -1,1 +1,3 @@
 这是一个用来测试git的文本文件。
+这是新加的一段话
+this is new word
